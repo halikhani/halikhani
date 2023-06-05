@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamidreza
-- 👀 I’m interested in Machine Learning in IoT and Healthcare applications.
+- 👀 I’m interested in recource efficient ML.
 - 🌱 I’m currently a Computer Science PhD studenent at UC Irvine
 
 
