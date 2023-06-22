@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hamidreza
-- 👀 I’m interested in recource efficient ML.
 - 🌱 I’m currently a Computer Science PhD studenent at UC Irvine
 
 
