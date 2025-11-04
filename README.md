@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamidreza
 - 🌱 I’m currently a Computer Science PhD studenent at UC Irvine
-- My research focuses on efficient Inference for LLMs
+- My research focus is on efficient Inference for LLMs
 
 
 <!---
